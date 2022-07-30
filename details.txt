@@ -1,0 +1,11 @@
+Newsapi key (725)
+f811ee5e20ab4227acfa348703802b84
+
+
+Newsapi key (918)
+ac5778ebbd2e4400abe7bd59553add7d
+
+
+  "homepage": "https://its-kashif.github.io/news360",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
